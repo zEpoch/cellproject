@@ -15,7 +15,6 @@ requires = [
     "numpy",
     "scipy",
     "umap-learn",
-    "sklearn",
 ]
 description-file = "README.org"
 classifiers = [
